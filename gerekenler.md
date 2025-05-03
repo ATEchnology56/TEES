@@ -12,7 +12,7 @@
   <tbody>
     <tr>
       <td>Raspberry Pi® 5</td>
-      <td>2GB ram</td>
+      <td>4GB ram</td>
       <td>4.490,00  
  ₺</td>
       <td><a href="https://www.hepsiburada.com/raspberry-pi-5-pm-HBC00005U7M6L">🔗</a></td>
