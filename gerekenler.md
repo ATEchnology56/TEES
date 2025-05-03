@@ -1,5 +1,6 @@
 # Gerekenler
 | Ürün | Model/Renk/sürüm vb. | Fiyat | Link |
+
 |------|----------------------|-------|------|
 
 | Rasspberry pi® 5 | 4GB ram | 2.961,38 ₺ | [🔗](https://market.samm.com/raspberry-pi-5?Model=4GB) |
