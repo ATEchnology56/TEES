@@ -38,8 +38,8 @@
     <tr>
       <td>Filament</td>
       <td>1.75 mm</td>
-      <td>865,24 ₺</td>
-      <td><a href="https://www.amazon.com.tr/Porima-3D-1-75-PLA-Filament/dp/B0D3F6V7PD/ref=sr_1_1_sspa?__mk_tr_TR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3KV7G6I74PKP8&dib=eyJ2IjoiMSJ9.mbdRURQ-ovl61WVMVVUKZA23yDtm4Jmch4OGsnijpPyVbOcMxO_7IbAgrY8Ae0VYD8l88HFOQiswfW7Wj6CDQbp4C2uZYn1HU5nt1YF_medGRdFPemt8FnuqFdHfHtMOAjtUM3s-D9RwR_5SSS7bQldsA1P5UqHyk3vlvVfn1IwMsFdzJWpLnDY6Pah8XaPdB7QS2Lp4R4VIqMaEbuG0kC9ofU_ib5O0OAWyG7xoqsxdqy6brpj1iovBzKwjAi9XihZLkSeldBwH6KXYbo_ewiAbt_iTZF2MYzscaGWxVZU.TDSB9QZVFL-h_SoUyhu41ECspOzN0bmoxpiV4ZiHkEE&dib_tag=se&keywords=filament&qid=1746303048&s=electronics&sprefix=filament%2Celectronics%2C99&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1">🔗</a></td>
+      <td>615,33 ₺</td>
+      <td><a href="https://www.robo90.com/nanelab-hyper-pla-pembe-filament-175mm-1kg">🔗</a></td>
     </tr>
   </tbody>
 </table>
