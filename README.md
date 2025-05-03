@@ -4,4 +4,4 @@ TEES Türkiyedeki 3 genç tarafından yapılmakta olan bir projedir, amacı oyun
 
 [Gerekenler](/gerekenler.md)
 
-[indirme](404)
+[indirme](https://github.com/ATEchnology55/TEES/releases)
