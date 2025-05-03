@@ -13,8 +13,9 @@
     <tr>
       <td>Raspberry Pi® 5</td>
       <td>4GB ram</td>
-      <td>2.961,38 ₺</td>
-      <td><a href="https://market.samm.com/raspberry-pi-5?Model=4GB">🔗</a></td>
+      <td>4.490,00 TL
+ ₺</td>
+      <td><a href="https://www.hepsiburada.com/raspberry-pi-5-pm-HBC00005U7M6L">🔗</a></td>
     </tr>
     <tr>
       <td>SD Kart</td>
